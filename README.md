@@ -8,7 +8,7 @@
 							• El total de accidentes por tipo de vehículo (camioneta, sedan, microbús)
 		
 		Modelo de Datos: 
-							• Modelo Dimensional
+							• Modelo Dimensional de Estrella
 		
 		Tipos de Dimensiones:
 							• Dimensión tipo 0
