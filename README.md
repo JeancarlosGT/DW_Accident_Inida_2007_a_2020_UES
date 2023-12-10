@@ -6,10 +6,9 @@
 							•	La cantidad de accidentes por ubicación definida.  
 							•	El total de accidentes por tipo de vehículo (camioneta, sedan, microbús, etc)  
 							•	El total de víctimas por tipo de accidente 
-
 		
 		Modelo de Datos: 
-							• Modelo Dimensional
+							• Modelo Dimensional de Estrella
 		
 		Tipos de Dimensiones:
 							• Dimensión tipo 0
